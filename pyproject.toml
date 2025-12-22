@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "category-encoders>=2.9.0",
     "jupyter>=1.1.1",
+    "lightgbm>=4.5.0",
     "matplotlib>=3.10.7",
     "numpy>=2.3.4",
     "optuna>=4.6.0",
@@ -14,4 +15,5 @@ dependencies = [
     "phik>=0.12.5",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
+    "xgboost>=2.1.0",
 ]
